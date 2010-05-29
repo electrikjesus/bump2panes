@@ -134,12 +134,9 @@
     </COMReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="images\Activate.png" />
     <Content Include="images\B2P-Button-Blank-grey.png" />
     <Content Include="images\B2P-Button-Blank.png" />
     <Content Include="images\B2P-Buy-Now-button.png" />
-    <Content Include="images\B2P-NAG-window.jpg" />
-    <Content Include="images\B2P-REG-window.jpg" />
     <Content Include="images\B2P-window.jpg" />
     <Content Include="images\Cancel.png" />
     <Content Include="images\X-copy.png" />

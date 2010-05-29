@@ -60,51 +60,9 @@ namespace Bump_2_Panes.Properties {
             }
         }
         
-        internal static System.Drawing.Bitmap Activate {
-            get {
-                object obj = ResourceManager.GetObject("Activate", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap B2P_Button_Blank {
-            get {
-                object obj = ResourceManager.GetObject("B2P_Button_Blank", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap B2P_Button_Blank_grey {
-            get {
-                object obj = ResourceManager.GetObject("B2P_Button_Blank_grey", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap B2P_Buy_Now_button {
-            get {
-                object obj = ResourceManager.GetObject("B2P_Buy_Now_button", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap B2P_NAG_window {
-            get {
-                object obj = ResourceManager.GetObject("B2P_NAG_window", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
         internal static System.Drawing.Bitmap B2P_window {
             get {
                 object obj = ResourceManager.GetObject("B2P_window", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap Cancel {
-            get {
-                object obj = ResourceManager.GetObject("Cancel", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
